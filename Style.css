@@ -16,3 +16,11 @@ body {
 .nav-pills {
 	color: #03BA1E;
 }
+
+.list-group {
+	text-align: center;
+	padding-right: 50%
+}
+.my-list {
+	color: #fff
+}
